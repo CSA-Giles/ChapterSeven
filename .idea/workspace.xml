@@ -15,13 +15,22 @@
       <file leaf-file-name="NumberInput.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/youDoIt/NumberInput.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="340">
+              <caret line="20" column="72" selection-start-line="20" selection-start-column="72" selection-end-line="20" selection-end-column="72" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RepairName.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="StringBuilderMethods.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/youDoIt/StringBuilderMethods.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RepairName.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/youDoIt/RepairName.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="309">
@@ -45,8 +54,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/youDoIt/NumberInput.java" />
         <option value="$PROJECT_DIR$/src/youDoIt/RepairName.java" />
+        <option value="$PROJECT_DIR$/src/youDoIt/NumberInput.java" />
+        <option value="$PROJECT_DIR$/src/youDoIt/StringBuilderMethods.java" />
       </list>
     </option>
   </component>
@@ -104,9 +114,31 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.StringBuilderMethods">
+    <configuration name="NumberInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="youDoIt.NumberInput" />
+      <module name="ChapterSeven" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="youDoIt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="RepairName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="youDoIt.RepairName" />
+      <module name="ChapterSeven" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="youDoIt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="StringBuilderMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="youDoIt.StringBuilderMethods" />
       <module name="ChapterSeven" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -157,8 +189,15 @@
       <properties />
       <listeners />
     </configuration>
+    <list>
+      <item itemvalue="Application.RepairName" />
+      <item itemvalue="Application.NumberInput" />
+      <item itemvalue="Application.StringBuilderMethods" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringBuilderMethods" />
+        <item itemvalue="Application.NumberInput" />
         <item itemvalue="Application.RepairName" />
       </list>
     </recent_temporary>
@@ -212,17 +251,24 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/youDoIt/NumberInput.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/youDoIt/RepairName.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="309">
           <caret line="36" column="17" lean-forward="true" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/youDoIt/NumberInput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="72" selection-start-line="20" selection-start-column="72" selection-end-line="20" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/youDoIt/StringBuilderMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
         </state>
       </provider>
     </entry>
