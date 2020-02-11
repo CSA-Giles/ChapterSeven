@@ -9,7 +9,6 @@ public class PigLatin {
         String userEntry;
         String ay = "ay";
         Scanner input = new Scanner(System.in);
-        String pigLatin;
         char first;
         String restOfString;
 
